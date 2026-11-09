@@ -1,0 +1,1043 @@
+{
+  "name": "digital-marketing-skills",
+  "version": "1.0.0",
+  "author": "Lionel Sim",
+  "license": "MIT",
+  "count": 120,
+  "categories": [
+    {
+      "name": "Digital Strategy & Funnels",
+      "count": 10,
+      "slugs": [
+        "digital-marketing-strategy-plan",
+        "funnel-architecture-design",
+        "audience-persona-research",
+        "customer-journey-mapping",
+        "marketing-budget-allocation",
+        "channel-mix-planning",
+        "campaign-calendar-planning",
+        "competitor-digital-audit",
+        "offer-and-value-proposition-design",
+        "growth-model-and-forecasting"
+      ]
+    },
+    {
+      "name": "SEO",
+      "count": 10,
+      "slugs": [
+        "technical-seo-audit",
+        "keyword-research-and-mapping",
+        "on-page-seo-optimization",
+        "search-intent-content-brief",
+        "internal-linking-strategy",
+        "local-seo-optimization",
+        "link-earning-and-digital-pr",
+        "seo-content-refresh",
+        "schema-markup-implementation",
+        "seo-reporting-and-insights"
+      ]
+    },
+    {
+      "name": "SEM & PPC",
+      "count": 10,
+      "slugs": [
+        "google-ads-account-structure",
+        "search-campaign-build",
+        "keyword-match-type-strategy",
+        "ad-copywriting-for-search",
+        "bidding-strategy-selection",
+        "quality-score-improvement",
+        "negative-keyword-management",
+        "ppc-landing-page-alignment",
+        "remarketing-search-campaigns",
+        "ppc-audit-and-waste-reduction"
+      ]
+    },
+    {
+      "name": "Paid Media Planning & Buying",
+      "count": 10,
+      "slugs": [
+        "paid-media-plan",
+        "media-budget-scenario-modelling",
+        "paid-social-campaign-structure",
+        "programmatic-display-planning",
+        "youtube-ads-planning",
+        "media-buying-negotiation-brief",
+        "ad-frequency-and-fatigue-management",
+        "cross-channel-budget-reallocation",
+        "incrementality-and-geo-testing",
+        "paid-media-reporting-cadence"
+      ]
+    },
+    {
+      "name": "Content Marketing",
+      "count": 10,
+      "slugs": [
+        "content-strategy-framework",
+        "editorial-calendar-management",
+        "pillar-and-cluster-planning",
+        "long-form-article-production",
+        "lead-magnet-creation",
+        "case-study-production",
+        "webinar-content-programme",
+        "editorial-newsletter-strategy",
+        "content-distribution-and-repurposing",
+        "content-performance-review"
+      ]
+    },
+    {
+      "name": "Email & Lifecycle Marketing",
+      "count": 10,
+      "slugs": [
+        "email-flow-architecture",
+        "welcome-flow-build",
+        "abandon-recovery-flows",
+        "email-campaign-brief-and-copy",
+        "email-deliverability-audit",
+        "list-hygiene-and-segmentation",
+        "lifecycle-journey-mapping-email",
+        "winback-and-reactivation",
+        "transactional-email-optimization",
+        "email-programme-reporting"
+      ]
+    },
+    {
+      "name": "Marketing Automation & CRM",
+      "count": 10,
+      "slugs": [
+        "lead-scoring-model-design",
+        "lead-nurture-workflow-build",
+        "crm-data-hygiene",
+        "lifecycle-stage-definitions",
+        "marketing-to-sales-handoff",
+        "automation-workflow-audit",
+        "webinar-and-event-automation",
+        "personalization-token-strategy",
+        "consent-and-preference-centre",
+        "martech-stack-review"
+      ]
+    },
+    {
+      "name": "CRO & Landing Pages",
+      "count": 10,
+      "slugs": [
+        "cro-audit-heuristic",
+        "ab-test-design",
+        "landing-page-copywriting",
+        "form-optimization",
+        "headline-and-cta-testing",
+        "funnel-drop-off-diagnosis",
+        "social-proof-placement",
+        "pricing-page-optimization",
+        "checkout-flow-review",
+        "experiment-results-writeup"
+      ]
+    },
+    {
+      "name": "Web & Marketing Analytics",
+      "count": 10,
+      "slugs": [
+        "ga4-measurement-plan",
+        "utm-governance",
+        "attribution-model-comparison",
+        "marketing-dashboard-build",
+        "funnel-metrics-definition",
+        "campaign-performance-analysis",
+        "cohort-and-retention-analysis",
+        "server-side-tracking-plan",
+        "consent-mode-and-privacy-tracking",
+        "weekly-marketing-scorecard"
+      ]
+    },
+    {
+      "name": "Brand & Creative",
+      "count": 10,
+      "slugs": [
+        "brand-positioning-workshop",
+        "messaging-framework",
+        "creative-brief-writing",
+        "ad-creative-concepting",
+        "brand-voice-guidelines",
+        "visual-identity-brief",
+        "campaign-key-message-house",
+        "creative-testing-matrix",
+        "testimonial-and-proof-library",
+        "rebrand-rollout-plan"
+      ]
+    },
+    {
+      "name": "Growth Experiments & PLG",
+      "count": 10,
+      "slugs": [
+        "growth-experiment-backlog",
+        "ice-rice-prioritization",
+        "onboarding-activation-audit",
+        "referral-programme-design",
+        "viral-loop-analysis",
+        "free-trial-to-paid-conversion",
+        "pricing-and-packaging-experiments",
+        "growth-loop-mapping",
+        "retention-curve-analysis",
+        "experiment-programme-ops"
+      ]
+    },
+    {
+      "name": "Agency & Client Delivery",
+      "count": 10,
+      "slugs": [
+        "client-discovery-and-onboarding",
+        "digital-marketing-audit-delivery",
+        "proposal-and-scope-writing",
+        "retainer-reporting-pack",
+        "client-communication-cadence",
+        "marketing-sprint-planning",
+        "campaign-launch-qa-checklist",
+        "account-growth-plan",
+        "freelancer-and-subcontractor-briefing",
+        "end-of-month-performance-review"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "slug": "digital-marketing-strategy-plan",
+      "name": "Digital Marketing Strategy Plan",
+      "category": "Digital Strategy & Funnels",
+      "description": "Build a full digital marketing strategy: goals, audiences, offer, channel roles, budget and a 90-day roadmap.",
+      "version": "1.0"
+    },
+    {
+      "slug": "funnel-architecture-design",
+      "name": "Funnel Architecture Design",
+      "category": "Digital Strategy & Funnels",
+      "description": "Design a marketing funnel end to end: stages, offers, pages, follow-up and the metric owned at each stage.",
+      "version": "1.0"
+    },
+    {
+      "slug": "audience-persona-research",
+      "name": "Audience Persona Research",
+      "category": "Digital Strategy & Funnels",
+      "description": "Build evidence-based buyer personas from customer data, interviews and reviews - not demographic guesswork.",
+      "version": "1.0"
+    },
+    {
+      "slug": "customer-journey-mapping",
+      "name": "Customer Journey Mapping",
+      "category": "Digital Strategy & Funnels",
+      "description": "Map the customer journey across awareness, consideration, decision, onboarding and advocacy, with touchpoints and drop-offs.",
+      "version": "1.0"
+    },
+    {
+      "slug": "marketing-budget-allocation",
+      "name": "Marketing Budget Allocation",
+      "category": "Digital Strategy & Funnels",
+      "description": "Allocate a marketing budget across channels and funnel stages using unit economics, capacity and test reserves.",
+      "version": "1.0"
+    },
+    {
+      "slug": "channel-mix-planning",
+      "name": "Channel Mix Planning",
+      "category": "Digital Strategy & Funnels",
+      "description": "Choose and sequence the right channel mix for a business stage: which channels to start, scale, pause or kill.",
+      "version": "1.0"
+    },
+    {
+      "slug": "campaign-calendar-planning",
+      "name": "Campaign Calendar Planning",
+      "category": "Digital Strategy & Funnels",
+      "description": "Plan a quarterly campaign calendar: themes, moments, launches and always-on activity, with owners and asset deadlines.",
+      "version": "1.0"
+    },
+    {
+      "slug": "competitor-digital-audit",
+      "name": "Competitor Digital Audit",
+      "category": "Digital Strategy & Funnels",
+      "description": "Audit competitors' digital marketing: positioning, channels, offers, ads and content - and turn it into positioning decisions.",
+      "version": "1.0"
+    },
+    {
+      "slug": "offer-and-value-proposition-design",
+      "name": "Offer and Value Proposition Design",
+      "category": "Digital Strategy & Funnels",
+      "description": "Design an offer and value proposition a landing page can carry: outcome, mechanism, proof, risk reversal and price framing.",
+      "version": "1.0"
+    },
+    {
+      "slug": "growth-model-and-forecasting",
+      "name": "Growth Model and Forecasting",
+      "category": "Digital Strategy & Funnels",
+      "description": "Build a simple driver-based growth model: traffic, conversion, revenue and the sensitivity of results to each lever.",
+      "version": "1.0"
+    },
+    {
+      "slug": "technical-seo-audit",
+      "name": "Technical SEO Audit",
+      "category": "SEO",
+      "description": "Run a technical SEO audit: crawlability, indexation, site structure, Core Web Vitals, duplicates and canonicals - with a prioritised fix list.",
+      "version": "1.0"
+    },
+    {
+      "slug": "keyword-research-and-mapping",
+      "name": "Keyword Research and Mapping",
+      "category": "SEO",
+      "description": "Research keywords by intent and value, then map one target keyword cluster to each page so pages stop competing with each other.",
+      "version": "1.0"
+    },
+    {
+      "slug": "on-page-seo-optimization",
+      "name": "On-Page SEO Optimization",
+      "category": "SEO",
+      "description": "Optimise a page for its target cluster: title, headings, content depth, entities, media and internal links - without stuffing.",
+      "version": "1.0"
+    },
+    {
+      "slug": "search-intent-content-brief",
+      "name": "Search Intent Content Brief",
+      "category": "SEO",
+      "description": "Write a content brief that pins down intent, angle, structure, proof and internal links before a writer starts.",
+      "version": "1.0"
+    },
+    {
+      "slug": "internal-linking-strategy",
+      "name": "Internal Linking Strategy",
+      "category": "SEO",
+      "description": "Design internal linking so authority and readers flow to money pages: hubs, spokes, anchors and orphan fixes.",
+      "version": "1.0"
+    },
+    {
+      "slug": "local-seo-optimization",
+      "name": "Local SEO Optimization",
+      "category": "SEO",
+      "description": "Optimise local search presence: Google Business Profile, local pages, reviews and citations for each service area.",
+      "version": "1.0"
+    },
+    {
+      "slug": "link-earning-and-digital-pr",
+      "name": "Link Earning and Digital PR",
+      "category": "SEO",
+      "description": "Earn authoritative links with citable assets and targeted outreach - data, tools, research and expert commentary.",
+      "version": "1.0"
+    },
+    {
+      "slug": "seo-content-refresh",
+      "name": "SEO Content Refresh",
+      "category": "SEO",
+      "description": "Refresh decaying content: find pages losing traffic, update facts and depth, and re-earn rankings without changing URLs carelessly.",
+      "version": "1.0"
+    },
+    {
+      "slug": "schema-markup-implementation",
+      "name": "Schema Markup Implementation",
+      "category": "SEO",
+      "description": "Plan and validate structured data: Organization, LocalBusiness, Article, FAQ, Product and Breadcrumb schema that matches visible content.",
+      "version": "1.0"
+    },
+    {
+      "slug": "seo-reporting-and-insights",
+      "name": "SEO Reporting and Insights",
+      "category": "SEO",
+      "description": "Report SEO performance as decisions: visibility by intent, page winners and losers, and what happens next - not screenshot dumps.",
+      "version": "1.0"
+    },
+    {
+      "slug": "google-ads-account-structure",
+      "name": "Google Ads Account Structure",
+      "category": "SEM & PPC",
+      "description": "Structure a Google Ads account by intent and economics: campaigns, budgets and ad groups that make optimisation possible.",
+      "version": "1.0"
+    },
+    {
+      "slug": "search-campaign-build",
+      "name": "Search Campaign Build",
+      "category": "SEM & PPC",
+      "description": "Build a search campaign from keyword set to live ads: targeting, ads, extensions, negatives and launch QA.",
+      "version": "1.0"
+    },
+    {
+      "slug": "keyword-match-type-strategy",
+      "name": "Keyword Match Type Strategy",
+      "category": "SEM & PPC",
+      "description": "Decide how to use broad, phrase and exact match with smart bidding: where each belongs and how to control them.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ad-copywriting-for-search",
+      "name": "Ad Copywriting for Search",
+      "category": "SEM & PPC",
+      "description": "Write search ads that mirror intent and carry proof: RSA headline sets, descriptions and pinning strategy that earn the click honestly.",
+      "version": "1.0"
+    },
+    {
+      "slug": "bidding-strategy-selection",
+      "name": "Bidding Strategy Selection",
+      "category": "SEM & PPC",
+      "description": "Choose and manage bid strategies - tCPA, tROAS, max conversions, manual - based on data volume, value quality and margin.",
+      "version": "1.0"
+    },
+    {
+      "slug": "quality-score-improvement",
+      "name": "Quality Score Improvement",
+      "category": "SEM & PPC",
+      "description": "Diagnose and improve Quality Score components: expected CTR, ad relevance and landing page experience - by fixing the real thing each measures.",
+      "version": "1.0"
+    },
+    {
+      "slug": "negative-keyword-management",
+      "name": "Negative Keyword Management",
+      "category": "SEM & PPC",
+      "description": "Run negative keyword management as a system: search term mining, shared lists, match-type choices and false-positive checks.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ppc-landing-page-alignment",
+      "name": "PPC Landing Page Alignment",
+      "category": "SEM & PPC",
+      "description": "Align landing pages to ad groups: message match, intent depth and one conversion action per page.",
+      "version": "1.0"
+    },
+    {
+      "slug": "remarketing-search-campaigns",
+      "name": "Remarketing Search Campaigns (RLSA)",
+      "category": "SEM & PPC",
+      "description": "Build search remarketing for past visitors: audience tiers by intent, bid and copy adjustments, and frequency sanity.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ppc-audit-and-waste-reduction",
+      "name": "PPC Audit and Waste Reduction",
+      "category": "SEM & PPC",
+      "description": "Audit a paid search account end to end: tracking, structure, settings, search terms and bids - and produce a costed waste list.",
+      "version": "1.0"
+    },
+    {
+      "slug": "paid-media-plan",
+      "name": "Paid Media Plan",
+      "category": "Paid Media Planning & Buying",
+      "description": "Write a paid media plan across search, social, video and display: objectives, audiences, budgets, flighting and measurement per line.",
+      "version": "1.0"
+    },
+    {
+      "slug": "media-budget-scenario-modelling",
+      "name": "Media Budget Scenario Modelling",
+      "category": "Paid Media Planning & Buying",
+      "description": "Model media budget scenarios - conservative, base, aggressive - with expected outcomes and the assumptions that drive them.",
+      "version": "1.0"
+    },
+    {
+      "slug": "paid-social-campaign-structure",
+      "name": "Paid Social Campaign Structure",
+      "category": "Paid Media Planning & Buying",
+      "description": "Structure paid social campaigns (Meta, TikTok, LinkedIn): objective setup, audience layering, creative sets and budget control.",
+      "version": "1.0"
+    },
+    {
+      "slug": "programmatic-display-planning",
+      "name": "Programmatic Display Planning",
+      "category": "Paid Media Planning & Buying",
+      "description": "Plan programmatic display with brand safety, viewability and fraud controls as first-class requirements.",
+      "version": "1.0"
+    },
+    {
+      "slug": "youtube-ads-planning",
+      "name": "YouTube Ads Planning",
+      "category": "Paid Media Planning & Buying",
+      "description": "Plan YouTube advertising: formats by funnel job, audience signals, creative hooks in the first 5 seconds and view-through measurement.",
+      "version": "1.0"
+    },
+    {
+      "slug": "media-buying-negotiation-brief",
+      "name": "Media Buying Negotiation Brief",
+      "category": "Paid Media Planning & Buying",
+      "description": "Prepare a negotiation brief for direct and platform media buys: objectives, walk-away points, value-adds and measurement rights.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ad-frequency-and-fatigue-management",
+      "name": "Ad Frequency and Fatigue Management",
+      "category": "Paid Media Planning & Buying",
+      "description": "Detect and manage ad fatigue: frequency curves, creative rotation rules and refresh triggers per channel.",
+      "version": "1.0"
+    },
+    {
+      "slug": "cross-channel-budget-reallocation",
+      "name": "Cross-Channel Budget Reallocation",
+      "category": "Paid Media Planning & Buying",
+      "description": "Reallocate budget across channels on marginal returns: decision rules, cooling-off periods and documentation.",
+      "version": "1.0"
+    },
+    {
+      "slug": "incrementality-and-geo-testing",
+      "name": "Incrementality and Geo Testing",
+      "category": "Paid Media Planning & Buying",
+      "description": "Design incrementality tests - geo splits, holdouts, on/off - that answer whether a channel causes results or just claims them.",
+      "version": "1.0"
+    },
+    {
+      "slug": "paid-media-reporting-cadence",
+      "name": "Paid Media Reporting Cadence",
+      "category": "Paid Media Planning & Buying",
+      "description": "Set a paid media reporting rhythm - daily checks, weekly optimisation notes, monthly strategy reviews - each with a fixed template.",
+      "version": "1.0"
+    },
+    {
+      "slug": "content-strategy-framework",
+      "name": "Content Strategy Framework",
+      "category": "Content Marketing",
+      "description": "Build a content strategy that ties topics to funnel stages, audiences and business outcomes - with a clear say-no list.",
+      "version": "1.0"
+    },
+    {
+      "slug": "editorial-calendar-management",
+      "name": "Editorial Calendar Management",
+      "category": "Content Marketing",
+      "description": "Run an editorial calendar that actually ships: workflow states, owners, deadlines and a realistic cadence.",
+      "version": "1.0"
+    },
+    {
+      "slug": "pillar-and-cluster-planning",
+      "name": "Pillar and Cluster Planning",
+      "category": "Content Marketing",
+      "description": "Plan pillar pages and supporting clusters that build topical authority without cannibalising each other.",
+      "version": "1.0"
+    },
+    {
+      "slug": "long-form-article-production",
+      "name": "Long-Form Article Production",
+      "category": "Content Marketing",
+      "description": "Produce a long-form article that earns its length: research, structure, drafting, expert input and editing workflow.",
+      "version": "1.0"
+    },
+    {
+      "slug": "lead-magnet-creation",
+      "name": "Lead Magnet Creation",
+      "category": "Content Marketing",
+      "description": "Create a lead magnet people actually want: topic selection from buyer pain, format choice, production and delivery setup.",
+      "version": "1.0"
+    },
+    {
+      "slug": "case-study-production",
+      "name": "Case Study Production",
+      "category": "Content Marketing",
+      "description": "Produce a credible case study: client selection, interview, quantified results with permission, and formats for web, sales and social.",
+      "version": "1.0"
+    },
+    {
+      "slug": "webinar-content-programme",
+      "name": "Webinar Content Programme",
+      "category": "Content Marketing",
+      "description": "Run webinars as a content and pipeline programme: topic selection, promotion, delivery format and follow-up that converts attendees.",
+      "version": "1.0"
+    },
+    {
+      "slug": "editorial-newsletter-strategy",
+      "name": "Editorial Newsletter Strategy",
+      "category": "Content Marketing",
+      "description": "Design an editorial newsletter people keep opening: promise, format, cadence, growth loops and sponsorship readiness.",
+      "version": "1.0"
+    },
+    {
+      "slug": "content-distribution-and-repurposing",
+      "name": "Content Distribution and Repurposing",
+      "category": "Content Marketing",
+      "description": "Distribute and repurpose content systematically: every flagship piece ships with a distribution pack and a second life plan.",
+      "version": "1.0"
+    },
+    {
+      "slug": "content-performance-review",
+      "name": "Content Performance Review",
+      "category": "Content Marketing",
+      "description": "Review content performance quarterly: winners, losers, refresh/kill decisions and what the data says to make next.",
+      "version": "1.0"
+    },
+    {
+      "slug": "email-flow-architecture",
+      "name": "Email Flow Architecture",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Design the complete automated flow architecture: triggers, journeys, exclusions and the priority order to build them in.",
+      "version": "1.0"
+    },
+    {
+      "slug": "welcome-flow-build",
+      "name": "Welcome Flow Build",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Build a welcome flow that delivers the promise, teaches the next step and segments by behaviour - in 3-5 emails.",
+      "version": "1.0"
+    },
+    {
+      "slug": "abandon-recovery-flows",
+      "name": "Abandon Recovery Flows",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Build cart, checkout and browse abandonment recovery: timing, objection handling and honest urgency - without fake scarcity.",
+      "version": "1.0"
+    },
+    {
+      "slug": "email-campaign-brief-and-copy",
+      "name": "Email Campaign Brief and Copy",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Brief and write one-off email campaigns: single goal, single audience insight, copy that earns the click and the reply.",
+      "version": "1.0"
+    },
+    {
+      "slug": "email-deliverability-audit",
+      "name": "Email Deliverability Audit",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Audit deliverability end to end: authentication, list quality, engagement signals, content triggers and infrastructure.",
+      "version": "1.0"
+    },
+    {
+      "slug": "list-hygiene-and-segmentation",
+      "name": "List Hygiene and Segmentation",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Keep the list clean and segmented by behaviour: hygiene rules, engagement tiers and segment maps that campaigns actually use.",
+      "version": "1.0"
+    },
+    {
+      "slug": "lifecycle-journey-mapping-email",
+      "name": "Lifecycle Journey Mapping (Email)",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Map the email lifecycle across subscriber and customer stages, finding the missing moments and the messages each stage needs.",
+      "version": "1.0"
+    },
+    {
+      "slug": "winback-and-reactivation",
+      "name": "Winback and Reactivation",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Design winback campaigns for lapsed customers and subscribers: honest value reminders, preference resets and a clean goodbye.",
+      "version": "1.0"
+    },
+    {
+      "slug": "transactional-email-optimization",
+      "name": "Transactional Email Optimization",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Optimise transactional emails - receipts, confirmations, notifications - for clarity, trust and one helpful next step.",
+      "version": "1.0"
+    },
+    {
+      "slug": "email-programme-reporting",
+      "name": "Email Programme Reporting",
+      "category": "Email & Lifecycle Marketing",
+      "description": "Report the email programme as a business: revenue per subscriber, flow vs campaign split, list health and the next experiments.",
+      "version": "1.0"
+    },
+    {
+      "slug": "lead-scoring-model-design",
+      "name": "Lead Scoring Model Design",
+      "category": "Marketing Automation & CRM",
+      "description": "Design a lead scoring model combining fit and behaviour, validated against real closed-won/lost outcomes.",
+      "version": "1.0"
+    },
+    {
+      "slug": "lead-nurture-workflow-build",
+      "name": "Lead Nurture Workflow Build",
+      "category": "Marketing Automation & CRM",
+      "description": "Build a nurture workflow that moves leads by stage: educational sequence, branching by engagement, and clear graduation rules.",
+      "version": "1.0"
+    },
+    {
+      "slug": "crm-data-hygiene",
+      "name": "CRM Data Hygiene",
+      "category": "Marketing Automation & CRM",
+      "description": "Clean and keep clean CRM data: dedupe rules, field standards, enrichment boundaries and a hygiene cadence.",
+      "version": "1.0"
+    },
+    {
+      "slug": "lifecycle-stage-definitions",
+      "name": "Lifecycle Stage Definitions",
+      "category": "Marketing Automation & CRM",
+      "description": "Define lifecycle stages with entry/exit criteria both marketing and sales sign: subscriber, MQL, SQL, opportunity, customer, evangelist.",
+      "version": "1.0"
+    },
+    {
+      "slug": "marketing-to-sales-handoff",
+      "name": "Marketing-to-Sales Handoff (MQL/SQL SLA)",
+      "category": "Marketing Automation & CRM",
+      "description": "Design the MQL-to-SQL handoff: routing rules, speed-to-lead SLA, context pack and the feedback loop that keeps quality honest.",
+      "version": "1.0"
+    },
+    {
+      "slug": "automation-workflow-audit",
+      "name": "Automation Workflow Audit",
+      "category": "Marketing Automation & CRM",
+      "description": "Audit live automations for logic errors, dead ends, conflicts and zombie workflows - before they embarrass or cost you.",
+      "version": "1.0"
+    },
+    {
+      "slug": "webinar-and-event-automation",
+      "name": "Webinar and Event Automation",
+      "category": "Marketing Automation & CRM",
+      "description": "Automate the event machine: registration, reminders, attendance tracking, segmented follow-up and CRM sync.",
+      "version": "1.0"
+    },
+    {
+      "slug": "personalization-token-strategy",
+      "name": "Personalization Token Strategy",
+      "category": "Marketing Automation & CRM",
+      "description": "Use personalisation safely: which tokens, what fallbacks, and behaviour-based content blocks that never embarrass.",
+      "version": "1.0"
+    },
+    {
+      "slug": "consent-and-preference-centre",
+      "name": "Consent and Preference Centre",
+      "category": "Marketing Automation & CRM",
+      "description": "Design consent capture and a preference centre that is honest, granular and easy - reducing unsubscribes while respecting choice.",
+      "version": "1.0"
+    },
+    {
+      "slug": "martech-stack-review",
+      "name": "Martech Stack Review",
+      "category": "Marketing Automation & CRM",
+      "description": "Review the marketing technology stack: what each tool earns, overlaps, data flows and the consolidate/keep/replace decisions.",
+      "version": "1.0"
+    },
+    {
+      "slug": "cro-audit-heuristic",
+      "name": "CRO Audit (Heuristic)",
+      "category": "CRO & Landing Pages",
+      "description": "Run a heuristic conversion audit of key pages: clarity, value, friction, anxiety and distraction - scored, evidenced, prioritised.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ab-test-design",
+      "name": "A/B Test Design",
+      "category": "CRO & Landing Pages",
+      "description": "Design A/B tests that produce decisions: hypothesis, primary metric, sample size, guardrails and a pre-registered decision rule.",
+      "version": "1.0"
+    },
+    {
+      "slug": "landing-page-copywriting",
+      "name": "Landing Page Copywriting",
+      "category": "CRO & Landing Pages",
+      "description": "Write landing page copy in the visitor's language: headline, proof, objection handling and a single clear call to action.",
+      "version": "1.0"
+    },
+    {
+      "slug": "form-optimization",
+      "name": "Form Optimization",
+      "category": "CRO & Landing Pages",
+      "description": "Optimise forms for completion: field economy, order, inline help, error handling and honest multi-step design.",
+      "version": "1.0"
+    },
+    {
+      "slug": "headline-and-cta-testing",
+      "name": "Headline and CTA Testing",
+      "category": "CRO & Landing Pages",
+      "description": "Run headline and call-to-action tests from a voice-of-customer phrase bank, with disciplined one-variable discipline.",
+      "version": "1.0"
+    },
+    {
+      "slug": "funnel-drop-off-diagnosis",
+      "name": "Funnel Drop-Off Diagnosis",
+      "category": "CRO & Landing Pages",
+      "description": "Diagnose where and why a funnel loses people: step analytics, session evidence and targeted fixes per leak.",
+      "version": "1.0"
+    },
+    {
+      "slug": "social-proof-placement",
+      "name": "Social Proof Placement",
+      "category": "CRO & Landing Pages",
+      "description": "Place real social proof where decisions happen: testimonials, results, logos and guarantees matched to each page's moment of doubt.",
+      "version": "1.0"
+    },
+    {
+      "slug": "pricing-page-optimization",
+      "name": "Pricing Page Optimization",
+      "category": "CRO & Landing Pages",
+      "description": "Optimise the pricing page for comprehension and choice: plan architecture, value framing, comparison clarity and risk reversal.",
+      "version": "1.0"
+    },
+    {
+      "slug": "checkout-flow-review",
+      "name": "Checkout Flow Review",
+      "category": "CRO & Landing Pages",
+      "description": "Review a checkout flow through a CRO lens: cost transparency, account walls, payment options and error recovery.",
+      "version": "1.0"
+    },
+    {
+      "slug": "experiment-results-writeup",
+      "name": "Experiment Results Writeup",
+      "category": "CRO & Landing Pages",
+      "description": "Write up experiment results so the organisation learns: context, data, decision and the next hypothesis - for wins and losses alike.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ga4-measurement-plan",
+      "name": "GA4 Measurement Plan",
+      "category": "Web & Marketing Analytics",
+      "description": "Write a GA4 measurement plan: business questions, events, parameters, conversions and the governance to keep it clean.",
+      "version": "1.0"
+    },
+    {
+      "slug": "utm-governance",
+      "name": "UTM Governance",
+      "category": "Web & Marketing Analytics",
+      "description": "Govern UTM tagging: a naming standard, a builder, and cleanup rules so campaign data stays comparable forever.",
+      "version": "1.0"
+    },
+    {
+      "slug": "attribution-model-comparison",
+      "name": "Attribution Model Comparison",
+      "category": "Web & Marketing Analytics",
+      "description": "Compare attribution models on the same data and make budget decisions that survive the model choice.",
+      "version": "1.0"
+    },
+    {
+      "slug": "marketing-dashboard-build",
+      "name": "Marketing Dashboard Build",
+      "category": "Web & Marketing Analytics",
+      "description": "Build a marketing dashboard that gets used: one page per audience, decision-linked metrics, and honest data plumbing.",
+      "version": "1.0"
+    },
+    {
+      "slug": "funnel-metrics-definition",
+      "name": "Funnel Metrics Definition",
+      "category": "Web & Marketing Analytics",
+      "description": "Define funnel metrics once, in writing: every stage metric's formula, source and owner - the house dictionary.",
+      "version": "1.0"
+    },
+    {
+      "slug": "campaign-performance-analysis",
+      "name": "Campaign Performance Analysis",
+      "category": "Web & Marketing Analytics",
+      "description": "Analyse a finished campaign honestly: vs goal, vs benchmark, what drove it, and what the next campaign does differently.",
+      "version": "1.0"
+    },
+    {
+      "slug": "cohort-and-retention-analysis",
+      "name": "Cohort and Retention Analysis",
+      "category": "Web & Marketing Analytics",
+      "description": "Run cohort analysis on customers or subscribers: acquisition cohorts, retention curves and where lifecycle value is created or lost.",
+      "version": "1.0"
+    },
+    {
+      "slug": "server-side-tracking-plan",
+      "name": "Server-Side Tracking Plan",
+      "category": "Web & Marketing Analytics",
+      "description": "Plan server-side tracking and conversion APIs: what to send, deduplication, consent gating and data quality controls.",
+      "version": "1.0"
+    },
+    {
+      "slug": "consent-mode-and-privacy-tracking",
+      "name": "Consent Mode and Privacy Tracking",
+      "category": "Web & Marketing Analytics",
+      "description": "Implement consent mode and privacy-respecting measurement: banner behaviour, tag gating, and modelled-data literacy for stakeholders.",
+      "version": "1.0"
+    },
+    {
+      "slug": "weekly-marketing-scorecard",
+      "name": "Weekly Marketing Scorecard",
+      "category": "Web & Marketing Analytics",
+      "description": "Produce the weekly marketing scorecard: outcomes vs pace, funnel health, spend efficiency and the three things that changed.",
+      "version": "1.0"
+    },
+    {
+      "slug": "brand-positioning-workshop",
+      "name": "Brand Positioning Workshop",
+      "category": "Brand & Creative",
+      "description": "Run a positioning workshop that ends in decisions: audience, frame of reference, differentiator and the reasons to believe.",
+      "version": "1.0"
+    },
+    {
+      "slug": "messaging-framework",
+      "name": "Messaging Framework",
+      "category": "Brand & Creative",
+      "description": "Build a messaging framework: audience-by-pain message matrix, message hierarchy and proof for every claim.",
+      "version": "1.0"
+    },
+    {
+      "slug": "creative-brief-writing",
+      "name": "Creative Brief Writing",
+      "category": "Brand & Creative",
+      "description": "Write a creative brief that gets great work: single-minded proposition, audience insight, mandatories and a clear success measure.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ad-creative-concepting",
+      "name": "Ad Creative Concepting",
+      "category": "Brand & Creative",
+      "description": "Concept ad creative from angles: pain, proof, offer, comparison and story - as a structured idea set ready for production.",
+      "version": "1.0"
+    },
+    {
+      "slug": "brand-voice-guidelines",
+      "name": "Brand Voice Guidelines",
+      "category": "Brand & Creative",
+      "description": "Write brand voice guidelines people can use: voice traits with do/don't examples from real copy, not adjectives in a vacuum.",
+      "version": "1.0"
+    },
+    {
+      "slug": "visual-identity-brief",
+      "name": "Visual Identity Brief",
+      "category": "Brand & Creative",
+      "description": "Brief visual identity or campaign look work: strategy inputs, design territories, deliverables and decision process.",
+      "version": "1.0"
+    },
+    {
+      "slug": "campaign-key-message-house",
+      "name": "Campaign Key Message House",
+      "category": "Brand & Creative",
+      "description": "Build a message house for a campaign: roof proposition, supporting pillars, proof base and audience adaptations.",
+      "version": "1.0"
+    },
+    {
+      "slug": "creative-testing-matrix",
+      "name": "Creative Testing Matrix",
+      "category": "Brand & Creative",
+      "description": "Design a creative testing matrix: angles x hooks x formats, with budget per cell and a learning agenda per test round.",
+      "version": "1.0"
+    },
+    {
+      "slug": "testimonial-and-proof-library",
+      "name": "Testimonial and Proof Library",
+      "category": "Brand & Creative",
+      "description": "Build and maintain a testimonial and proof library: collection workflow, permissions, tagging and refresh discipline.",
+      "version": "1.0"
+    },
+    {
+      "slug": "rebrand-rollout-plan",
+      "name": "Rebrand Rollout Plan",
+      "category": "Brand & Creative",
+      "description": "Plan a rebrand rollout across every marketing surface: inventory, redirects, templates, comms and the QA sweep.",
+      "version": "1.0"
+    },
+    {
+      "slug": "growth-experiment-backlog",
+      "name": "Growth Experiment Backlog",
+      "category": "Growth Experiments & PLG",
+      "description": "Build a growth experiment backlog sourced from funnel data and user insight - every idea with a hypothesis and an owner.",
+      "version": "1.0"
+    },
+    {
+      "slug": "ice-rice-prioritization",
+      "name": "ICE / RICE Prioritization",
+      "category": "Growth Experiments & PLG",
+      "description": "Prioritise experiments with ICE or RICE scoring, calibrated by the team's own past results instead of inflated estimates.",
+      "version": "1.0"
+    },
+    {
+      "slug": "onboarding-activation-audit",
+      "name": "Onboarding Activation Audit",
+      "category": "Growth Experiments & PLG",
+      "description": "Audit onboarding against the activation behaviours that predict retention, and redesign the path to the first value moment.",
+      "version": "1.0"
+    },
+    {
+      "slug": "referral-programme-design",
+      "name": "Referral Programme Design",
+      "category": "Growth Experiments & PLG",
+      "description": "Design a referral programme with honest incentives, share moments built into value moments, and fraud-resistant mechanics.",
+      "version": "1.0"
+    },
+    {
+      "slug": "viral-loop-analysis",
+      "name": "Viral Loop Analysis",
+      "category": "Growth Experiments & PLG",
+      "description": "Analyse viral and network loops: cycle time, conversion per step and the realistic ceiling on loop-driven growth.",
+      "version": "1.0"
+    },
+    {
+      "slug": "free-trial-to-paid-conversion",
+      "name": "Free Trial to Paid Conversion",
+      "category": "Growth Experiments & PLG",
+      "description": "Improve trial-to-paid conversion: activation inside the trial, usage-based prompts, and honest end-of-trial design.",
+      "version": "1.0"
+    },
+    {
+      "slug": "pricing-and-packaging-experiments",
+      "name": "Pricing and Packaging Experiments",
+      "category": "Growth Experiments & PLG",
+      "description": "Design pricing and packaging experiments: value metrics, plan structure tests and transparent measurement.",
+      "version": "1.0"
+    },
+    {
+      "slug": "growth-loop-mapping",
+      "name": "Growth Loop Mapping",
+      "category": "Growth Experiments & PLG",
+      "description": "Map the business's growth loops - acquisition, content, network, economic - and find the loop worth investing in.",
+      "version": "1.0"
+    },
+    {
+      "slug": "retention-curve-analysis",
+      "name": "Retention Curve Analysis",
+      "category": "Growth Experiments & PLG",
+      "description": "Analyse retention curves to find the retained core, the drop points and the product/marketing fixes each implies.",
+      "version": "1.0"
+    },
+    {
+      "slug": "experiment-programme-ops",
+      "name": "Experiment Programme Operations",
+      "category": "Growth Experiments & PLG",
+      "description": "Run the experimentation programme as an operation: cadence, log, reviews and the velocity-with-rigour balance.",
+      "version": "1.0"
+    },
+    {
+      "slug": "client-discovery-and-onboarding",
+      "name": "Client Discovery and Onboarding",
+      "category": "Agency & Client Delivery",
+      "description": "Run client discovery and onboarding: goals, access, data, stakeholders and the first-30-days plan that sets the relationship up to work.",
+      "version": "1.0"
+    },
+    {
+      "slug": "digital-marketing-audit-delivery",
+      "name": "Digital Marketing Audit Delivery",
+      "category": "Agency & Client Delivery",
+      "description": "Deliver a client audit that sells the roadmap without overselling: findings graded by impact, quick wins separated from programmes.",
+      "version": "1.0"
+    },
+    {
+      "slug": "proposal-and-scope-writing",
+      "name": "Proposal and Scope Writing",
+      "category": "Agency & Client Delivery",
+      "description": "Write proposals and scopes that win and protect: outcomes, deliverables, exclusions, timelines and change control in plain language.",
+      "version": "1.0"
+    },
+    {
+      "slug": "retainer-reporting-pack",
+      "name": "Retainer Reporting Pack",
+      "category": "Agency & Client Delivery",
+      "description": "Build the monthly retainer report: outcomes first, work delivered, learnings, and next month's plan - in a format clients actually read.",
+      "version": "1.0"
+    },
+    {
+      "slug": "client-communication-cadence",
+      "name": "Client Communication Cadence",
+      "category": "Agency & Client Delivery",
+      "description": "Set the client communication rhythm: weekly updates, monthly reviews, escalation paths and the no-surprises rule.",
+      "version": "1.0"
+    },
+    {
+      "slug": "marketing-sprint-planning",
+      "name": "Marketing Sprint Planning (Agency)",
+      "category": "Agency & Client Delivery",
+      "description": "Plan agency marketing work in sprints: capacity-based commitment, WIP limits and a demo that shows clients finished work.",
+      "version": "1.0"
+    },
+    {
+      "slug": "campaign-launch-qa-checklist",
+      "name": "Campaign Launch QA Checklist",
+      "category": "Agency & Client Delivery",
+      "description": "Run pre-launch QA on campaigns across channels: tracking, links, targeting, budgets, approvals and the rollback plan.",
+      "version": "1.0"
+    },
+    {
+      "slug": "account-growth-plan",
+      "name": "Account Growth Plan (Agency)",
+      "category": "Agency & Client Delivery",
+      "description": "Grow client accounts ethically: expansion mapped to client outcomes, not agency revenue targets wearing a strategy costume.",
+      "version": "1.0"
+    },
+    {
+      "slug": "freelancer-and-subcontractor-briefing",
+      "name": "Freelancer and Subcontractor Briefing",
+      "category": "Agency & Client Delivery",
+      "description": "Brief freelancers and subcontractors so work arrives right: context, standards, deliverable spec, IP and communication rules.",
+      "version": "1.0"
+    },
+    {
+      "slug": "end-of-month-performance-review",
+      "name": "End-of-Month Performance Review (Client)",
+      "category": "Agency & Client Delivery",
+      "description": "Run the end-of-month client performance review meeting: pre-read, decisions, and the conversation that turns a report into a plan.",
+      "version": "1.0"
+    }
+  ]
+}
